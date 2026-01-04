@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sue AhHahn (ซื้ออาหาร)",
+  "description": "แอปพลิเคชันสั่งอาหารที่รองรับทั้งผู้ซื้อและผู้ขาย พร้อมระบบแชท รีวิว และแจ้งเตือนแบบเรียลไทม์ในภาษาไทย",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
